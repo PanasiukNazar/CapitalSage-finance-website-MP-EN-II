@@ -1350,6 +1350,12 @@ h5,
     transform: translate(-50%, -50%);
 }
 
+.block-testimony img {
+    width: 100px !important;
+    height: 100px !important;
+    object-fit: cover;
+}
+
 .block-testimony-1 {
     padding: 20px;
     position: relative;
